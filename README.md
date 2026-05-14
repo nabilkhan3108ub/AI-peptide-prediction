@@ -50,7 +50,7 @@ This project benchmarks four AI based de novo peptide sequencing tools spanning 
 
 ## Project Report
 
-[Download Complete Project Report (PDF)](./Project_Report.pdf)
+[Download Complete Project Report (PDF)](https://github.com/nabilkhan3108ub/AI-peptide-prediction/blob/main/Peptides_project_report.pdf)
 
 ## Implementation Details
 
